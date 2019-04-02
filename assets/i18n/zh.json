@@ -1,0 +1,36 @@
+{
+    "ABOUT": "關於中心",
+    "HOT_NEWS": "最新消息",
+    "SERVICES": "服務內容",
+    "CONTACT": "聯絡我們",
+    "LOGIN": "會員登入",
+    "PARTNER": "合作夥伴",
+    "ZH_OR_EN": "中/英 雙語",
+
+    "MORE": "更多貼文",
+
+    "RECHARGE": "智財加值",
+    "MANAGEMENT": "智財管理",
+    "PROMOTION": "智財推廣",
+    "TRAIN": "智財人培",
+    "CONSULT": "智財諮詢",
+    "SEND_MESSAGE": "寄出您的訊息",
+
+    "NAME_PLACEHOLDER": "您的大名",
+    "EMAIL_PLACEHOLDER": "您的電子信箱",
+    "TEL_PLACEHOLDER": "您的聯絡電話",
+    "MESSAGE_PLACEHOLDER": "您的留言訊息",
+
+    "PLEASE_ENTER_NAME": "請輸入姓名。",
+    "INVALID_NAME": "請輸入正確的姓名，不可含有數字或符號。",
+
+    "PLEASE_ENTER_EMAIL": "請輸入電子郵件信箱。",
+    "INVALID_EMAIL": "請輸入正確的電子郵件信箱。",
+
+    "PLEASE_ENTER_TEL": "請輸入手機號碼。",
+    "INVALID_TEL": "請輸入正確的手機號碼格式。",
+
+    "PLEASE_ENTER_MSG": "請輸入留言訊息。",
+
+    "PRIVACY_POLICY": "隱私權條款"
+}

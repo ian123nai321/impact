@@ -1,0 +1,36 @@
+{
+    "ABOUT": "About",
+    "HOT_NEWS": "Hot News",
+    "SERVICES": "Services",
+    "CONTACT": "Contact",
+    "LOGIN": "Login",
+    "PARTNER": "Partner",
+    "ZH_OR_EN": "ZH/EN",
+
+    "MORE": "More",
+
+    "RECHARGE": "Recharge",
+    "MANAGEMENT": "Management",
+    "PROMOTION": "Promotion",
+    "TRAIN": "Train",
+    "CONSULT": "Consult",
+    "SEND_MESSAGE": "Send Message",
+
+    "NAME_PLACEHOLDER": "Name",
+    "EMAIL_PLACEHOLDER": "Email",
+    "TEL_PLACEHOLDER": "Phone",
+    "MESSAGE_PLACEHOLDER": "Some Messages...",
+
+    "PLEASE_ENTER_NAME": "Please enter your name.",
+    "INVALID_NAME": "Invalid name.",
+
+    "PLEASE_ENTER_EMAIL": "Please enter your email address.",
+    "INVALID_EMAIL": "Invalid Email.",
+
+    "PLEASE_ENTER_TEL": "Please enter your phone number.",
+    "INVALID_TEL": "Invalid phone number.",
+
+    "PLEASE_ENTER_MSG": "Please enter a message.",
+
+    "PRIVACY_POLICY": "Privacy policy"
+}
