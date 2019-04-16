@@ -16,10 +16,10 @@
     "CONSULT": "智財諮詢",
     "SEND_MESSAGE": "寄出您的訊息",
 
-    "NAME_PLACEHOLDER": "您的大名",
-    "EMAIL_PLACEHOLDER": "您的電子信箱",
-    "TEL_PLACEHOLDER": "您的聯絡電話",
-    "MESSAGE_PLACEHOLDER": "您的留言訊息",
+    "NAME_PLACEHOLDER": "姓名",
+    "EMAIL_PLACEHOLDER": "電子信箱",
+    "TEL_PLACEHOLDER": "聯絡電話",
+    "MESSAGE_PLACEHOLDER": "留言訊息",
 
     "PLEASE_ENTER_NAME": "請輸入姓名。",
     "INVALID_NAME": "請輸入正確的姓名，不可含有數字或符號。",
