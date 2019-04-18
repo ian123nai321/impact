@@ -7,7 +7,7 @@
     "PARTNER": "合作夥伴",
     "ZH_OR_EN": "中/英 雙語",
 
-    "MORE": "更多貼文",
+    "MORE": "更多消息",
 
     "RECHARGE": "智財加值",
     "MANAGEMENT": "智財管理",
@@ -32,5 +32,6 @@
 
     "PLEASE_ENTER_MSG": "請輸入留言訊息。",
 
-    "PRIVACY_POLICY": "隱私權條款"
+    "PRIVACY_POLICY": "隱私權條款",
+    "PRIVACY_SAFETY_POLICY": "隱私權安全政策"
 }
