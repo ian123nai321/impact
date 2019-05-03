@@ -1,36 +1,89 @@
 {
-    "ABOUT": "About",
-    "HOT_NEWS": "Hot News",
-    "SERVICES": "Services",
-    "CONTACT": "Contact",
-    "LOGIN": "Login",
-    "PARTNER": "Partner",
-    "ZH_OR_EN": "ZH/EN",
+    "ABOUT": "About us",
+    "HOT_NEWS": "News",
+    "SERVICES": "Our Service",
+    "SUCCESS_CASE": "Success Case",
+    "PARTNER": "Partners",
+    "RELATED_LINK": "Related Link",
+    "DOWNLOADS": "Downloads",
+    "VIDEOS": "Videos",
+    "CONTACT": "Contact Us",
+    "ZH_OR_EN": "中文/EN",
 
-    "MORE": "More",
+    "LOGIN": "Member login",
 
-    "RECHARGE": "Recharge",
-    "MANAGEMENT": "Management",
-    "PROMOTION": "Promotion",
-    "TRAIN": "Train",
-    "CONSULT": "Consult",
-    "SEND_MESSAGE": "Send Message",
+    "MORE_NEWS": "More posts",
+    "MORE_CASE": "More",
+
+    "SEND_MESSAGE": "Submit your message.",
 
     "NAME_PLACEHOLDER": "Name",
-    "EMAIL_PLACEHOLDER": "Email",
+    "EMAIL_PLACEHOLDER": "E-mail",
     "TEL_PLACEHOLDER": "Phone",
-    "MESSAGE_PLACEHOLDER": "Some Messages...",
+    "MESSAGE_PLACEHOLDER": "Your message",
 
     "PLEASE_ENTER_NAME": "Please enter your name.",
-    "INVALID_NAME": "Invalid name.",
+    "INVALID_NAME": "Please enter a valid name without any numbers or special characters.",
 
-    "PLEASE_ENTER_EMAIL": "Please enter your email address.",
-    "INVALID_EMAIL": "Invalid Email.",
+    "PLEASE_ENTER_EMAIL": "Please enter your E-mail.",
+    "INVALID_EMAIL": "Please enter a valid E-mail address.",
 
-    "PLEASE_ENTER_TEL": "Please enter your phone number.",
-    "INVALID_TEL": "Invalid phone number.",
+    "PLEASE_ENTER_TEL": "Please enter your mobile number.",
+    "INVALID_TEL": "Please enter a valid mobile number format.",
 
-    "PLEASE_ENTER_MSG": "Please enter a message.",
+    "PLEASE_ENTER_MSG": "Please enter your message.",
 
-    "PRIVACY_POLICY": "Privacy policy"
+    "PRIVACY_POLICY": "Privacy policy",
+    "PRIVACY_POLICY_CONENT": "We welcome your visit to “The IP Management & Promotion Administration Center at Taiwan Website” (hereinafter, “the Website”). <br>In order to ensure that you may safely and easily utilize the information and services of the Website, we would like to explain the privacy protection policy of the Website to safeguard your rights. Please read the following content carefully:",
+    "PRIVACY_SAFETY_POLICY": "Privacy Policy",
+
+    "ABOUT_CENTER": {
+        "OUR_OBJECTIVE_TITLE": "Our Objective",
+        "OUR_OBJECTIVE_CONTENT": "<div>Taiwan’s universities are the nation’s principal source of the fundamental research that expands the frontiers of knowledge and produces innovations, which results in accumulation of intellectual property (abbreviated to “IP”) assets over time.</div></br><div>In order to discover valuable IP and maximizing their values for the benefit of the universities, the Ministry of Education has established IP Management & Promotion Administration Center at Taiwan (abbreviated to “IMPACT”) in 2019, for the purpose of connecting industry, government, academy, venture capital and IP related association together through a team of experienced professionals in order to help the universities maximize the values and strengths of their IP.</div>",
+
+        "OUR_MISSION_TITLE": "Our Mission",
+        "OUR_MISSION_CONTENT": "<div><ul><li><b>Strengthen the depth: </b><p>IMPACT trains universities’IP management related personnel and researchers to implant IP professional knowledge strongly in the universities.</p></li><li><b>Expand the breadth: </b><p>IMPACT integrates domestic and international resources to form a vast network of IP value-added services. </p></li><li><b>Increase the height: </b><p>IMPACT increases its profile through developing connections with domestic and international industries. </p></li></ul></div>",
+
+        "OUR_POSITION_TITLE": "Our Position",
+        "OUR_POSITION_CONTENT": "<div>IMPACT aims to achieve the best use of universities’IP by integrating resources from <b>various universities</b>, <b>different industries</b>,<b>foundations </b>, <b>cross-sectoral governances</b>, and further ensuring the resources are properly introduced at appropriate stages of IP value-chain. In order to accomplish this, numbers of influential consultants on international and domestic industries are recruited to be responsible for obtaining industrial investment, guiding technology transfer and leading spin-off for universities.",
+
+        "OUT_STRATEGY_TITLE": "Our Strategy",
+        "OUT_STRATEGY_CONTENT": "<div><ul><li><b>Strengthen IP values:</b><p>Universities’IP values are realized by strengthening commercialization opportunities of research and development outcomes.</p></li><li><b>Connect IP resources:</b><p>IMPACT connects various IP resources to boost the power of IP service.</p></li><li><b>Training of IP personnel:</b><p>IMPACT organizes IP training courses to implant IP professional knowledge strongly in the universities.</p></li><li><b>Establish IP database:</b><p>IMPACT builds a IP database, which integrates all of the related sources, to strengthen IP service.</p></li><li><b>International strategy：</b><p>IMPACT increases international visibility by establishing international relations and a cooperation platform.</p></li></ul></div>"
+    },
+    
+    "OUR_SERVICE": {
+        "IP_VALUE_ADDED_SERVICE": "IP Value-Added Service",
+        "IP_VALUE_ADDED_SERVICE_CONTENT": "IMPACT provides strategic IP value-added services, such as discovering potential universities’ IP based on industry/market demand, and leading them to obtain industrial investment, technology transfer or spin-offs.",
+
+        "IP_MANAGEMENT": "IP Management",
+        "IP_MANAGEMENT_CONTENT": "IMPACT builds an operating system which includes industry-university cooperation, technology transfer, patent processing, accounting, maintenance administration, contract management etc., to assist universities’ IP from null to complete.",
+
+        "IP_PROMOTION": "IP Promotion",
+        "IP_PROMOTION_CONTENT": "IMPACT increases its reputation and chances of obtaining valuable resources by participating in international and domestic major conferences, conducting technical matchmaking conferences and seminars, to promoting universities’ IP.",
+
+        "IP_TRAINING": "IP Training",
+        "IP_TRAINING_CONTENT": "IMPACT conducts IP trainings regarding correct IP concepts, simulation of issues, governmental and nongovernmental resources, and related regulations and policies for universities.",
+
+        "IP_CONSULTANT": "IP Consultant",
+        "IP_CONSULTANT_CONTENT": "IMPACT provides IP consultant services or referrals to external resources to assist in resolving IP issues."
+    },
+
+    "CONTACT_US_SUBTITLE": "If you are interested in any of our IP services, or would like to become a cooperation partner of IMPACT, please leave a message here. We will get back to you as soon as possible. Thank you.",
+
+    "TRAFFIC": {
+        "TRAFFIC_INFOMATION": "Traffic Information",
+        "ADDRESS": "Address: Everlight Building 4F., No.1, Sec. 3, Zhongxiao E. Rd., Da’an Dist., Taipei City 106",
+
+        "METRO": "【 Taipei Metro 】",
+        "METRO_INFO": "Depending on your location, transfer to and/or take the MRT Blue Line. Get off at Zhongxiao Xinsheng Station, and take exit No. 4 (6-minute walk); or get off at Zhongxiao Fuxing Station, and take exit No. 1 (6-minute walk).",
+
+        "BUS": "【 Bus 】",
+        "BUS_INFO": "Bus numbers 1813 branch line, 1815, 212, 232, 299, 605, 262, 919, Zhongxiao Shinkansen, are the most common buses that travel to Everlight Building. Alight at Zhengyi Post Office Bus Station (2-minute walk).",
+
+        "CAR": "【 Car 】",
+        "CAR_INFO": "Jianguo North and South Expressway:<br>Drive from north to south: Take the ramp at the intersection of Sec. 1, Jianguo South Road and Sec 3, Zhongxiao East Road, and turn left. Drive from south to north: Take the ramp at the intersection of Xinhai Road and Jianguo South Road, and drive straight. ",
+
+        "CAR_PARK": "【 Carpark 】",
+        "CAR_PARK_INFO": "Everlight Building Underground Carpark:<br>NT$50/hr<br>Drive along Sec. 1, Jianguo South Road (towards north direction) to the intersection of Sec. 3, Zhongxiao East Road, and the entrance is located on the right side.<br>Renai Underground Carpark:<br>No. 222, Sec. 1, Jianguo S. Rd., Da’an Dist., Taipei City 106 (5-minute walk)<br>NT$50/day, NT$70/holiday."    }
+   
 }
