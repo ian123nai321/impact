@@ -45,7 +45,7 @@
         "OUR_MISSION_CONTENT": "<div><ul><li><b>Strengthen the depth: </b><p>IMPACT trains universities’IP management related personnel and researchers to implant IP professional knowledge strongly in the universities.</p></li><li><b>Expand the breadth: </b><p>IMPACT integrates domestic and international resources to form a vast network of IP value-added services. </p></li><li><b>Increase the height: </b><p>IMPACT increases its profile through developing connections with domestic and international industries. </p></li></ul></div>",
 
         "OUR_POSITION_TITLE": "Our Position",
-        "OUR_POSITION_CONTENT": "<div>IMPACT aims to achieve the best use of universities’IP by integrating resources from <b>various universities</b>, <b>different industries</b>,<b>foundations </b>, <b>cross-sectoral governances</b>, and further ensuring the resources are properly introduced at appropriate stages of IP value-chain. In order to accomplish this, numbers of influential consultants on international and domestic industries are recruited to be responsible for obtaining industrial investment, guiding technology transfer and leading spin-off for universities.",
+        "OUR_POSITION_CONTENT": "<div>IMPACT aims to achieve the best use of universities’IP by integrating resources from <b>various universities, different industries,foundations, cross-sectoral governances</b>, and further ensuring the resources are properly introduced at appropriate stages of IP value-chain. In order to accomplish this, numbers of <b>influential consultants on international and domestic industries</b> are recruited to be responsible for obtaining industrial investment, guiding technology transfer and leading spin-off for universities.",
 
         "OUT_STRATEGY_TITLE": "Our Strategy",
         "OUT_STRATEGY_CONTENT": "<div><ul><li><b>Strengthen IP values:</b><p>Universities’IP values are realized by strengthening commercialization opportunities of research and development outcomes.</p></li><li><b>Connect IP resources:</b><p>IMPACT connects various IP resources to boost the power of IP service.</p></li><li><b>Training of IP personnel:</b><p>IMPACT organizes IP training courses to implant IP professional knowledge strongly in the universities.</p></li><li><b>Establish IP database:</b><p>IMPACT builds a IP database, which integrates all of the related sources, to strengthen IP service.</p></li><li><b>International strategy：</b><p>IMPACT increases international visibility by establishing international relations and a cooperation platform.</p></li></ul></div>"
@@ -68,7 +68,7 @@
         "IP_CONSULTANT_CONTENT": "IMPACT provides IP consultant services or referrals to external resources to assist in resolving IP issues."
     },
 
-    "CONTACT_US_SUBTITLE": "If you are interested in any of our IP services, or would like to become a cooperation partner of IMPACT, please leave a message here. We will get back to you as soon as possible. Thank you.",
+    "CONTACT_US_SUBTITLE": "If you are interested in any of our IP services, or would like to become a cooperation partner of IMPACT, please leave a message here.<br> We will get back to you as soon as possible. Thank you.",
 
     "TRAFFIC": {
         "TRAFFIC_INFOMATION": "Traffic Information",
