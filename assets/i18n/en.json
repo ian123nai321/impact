@@ -1,13 +1,13 @@
 {
-    "ABOUT": "About us",
+    "ABOUT": "About",
     "HOT_NEWS": "News",
-    "SERVICES": "Our Service",
-    "SUCCESS_CASE": "Success Case",
+    "SERVICES": "Service",
+    "SUCCESS_CASE": "Case",
     "PARTNER": "Partners",
-    "RELATED_LINK": "Related Link",
+    "RELATED_LINK": "Link",
     "DOWNLOADS": "Downloads",
     "VIDEOS": "Videos",
-    "CONTACT": "Contact Us",
+    "CONTACT": "Contact",
     "ZH_OR_EN": "CN/EN",
 
     "LOGIN": "Member login",
